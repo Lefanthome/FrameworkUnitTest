@@ -1,0 +1,61 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v1.1",
+    "signature": "da39a3ee5e6b4b0d3255bfef95601890afd80709"
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v1.1": {
+      "launchapptest/1.0.0": {
+        "dependencies": {
+          "CommandParseLine": "1.0.0",
+          "FUnitTest": "1.0.0",
+          "SeleniumTest": "1.0.0"
+        },
+        "runtime": {
+          "LaunchAppTest.dll": {}
+        }
+      },
+      "commandparseline/1.0.0": {
+        "runtime": {
+          "CommandParseLine.dll": {}
+        }
+      },
+      "funittest/1.0.0": {
+        "runtime": {
+          "FUnitTest.dll": {}
+        }
+      },
+      "seleniumtest/1.0.0": {
+        "dependencies": {
+          "FUnitTest": "1.0.0"
+        },
+        "runtime": {
+          "SeleniumTest.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "launchapptest/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "commandparseline/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "funittest/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "seleniumtest/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

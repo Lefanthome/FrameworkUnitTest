@@ -1,0 +1,27 @@
+c:\users\ludovic.husson.ext\documents\visual studio 2017\Projects\AppSeleniumTest\SeleniumTest\bin\Debug\netcoreapp1.1\SeleniumTest.deps.json
+c:\users\ludovic.husson.ext\documents\visual studio 2017\Projects\AppSeleniumTest\SeleniumTest\bin\Debug\netcoreapp1.1\SeleniumTest.dll
+c:\users\ludovic.husson.ext\documents\visual studio 2017\Projects\AppSeleniumTest\SeleniumTest\bin\Debug\netcoreapp1.1\SeleniumTest.pdb
+c:\users\ludovic.husson.ext\documents\visual studio 2017\Projects\AppSeleniumTest\SeleniumTest\bin\Debug\netcoreapp1.1\FUnitTest.dll
+c:\users\ludovic.husson.ext\documents\visual studio 2017\Projects\AppSeleniumTest\SeleniumTest\bin\Debug\netcoreapp1.1\FUnitTest.pdb
+c:\users\ludovic.husson.ext\documents\visual studio 2017\Projects\AppSeleniumTest\SeleniumTest\obj\Debug\netcoreapp1.1\SeleniumTest.csprojResolveAssemblyReference.cache
+c:\users\ludovic.husson.ext\documents\visual studio 2017\Projects\AppSeleniumTest\SeleniumTest\obj\Debug\netcoreapp1.1\SeleniumTest.AssemblyInfo.cs
+c:\users\ludovic.husson.ext\documents\visual studio 2017\Projects\AppSeleniumTest\SeleniumTest\obj\Debug\netcoreapp1.1\SeleniumTest.dll
+c:\users\ludovic.husson.ext\documents\visual studio 2017\Projects\AppSeleniumTest\SeleniumTest\obj\Debug\netcoreapp1.1\SeleniumTest.pdb
+G:\Users\ludovic\Desktop\AppSeleniumTest\SeleniumTest\bin\Debug\netcoreapp1.1\SeleniumTest.deps.json
+G:\Users\ludovic\Desktop\AppSeleniumTest\SeleniumTest\bin\Debug\netcoreapp1.1\SeleniumTest.dll
+G:\Users\ludovic\Desktop\AppSeleniumTest\SeleniumTest\bin\Debug\netcoreapp1.1\SeleniumTest.pdb
+G:\Users\ludovic\Desktop\AppSeleniumTest\SeleniumTest\bin\Debug\netcoreapp1.1\FUnitTest.dll
+G:\Users\ludovic\Desktop\AppSeleniumTest\SeleniumTest\bin\Debug\netcoreapp1.1\FUnitTest.pdb
+G:\Users\ludovic\Desktop\AppSeleniumTest\SeleniumTest\obj\Debug\netcoreapp1.1\SeleniumTest.csprojResolveAssemblyReference.cache
+G:\Users\ludovic\Desktop\AppSeleniumTest\SeleniumTest\obj\Debug\netcoreapp1.1\SeleniumTest.AssemblyInfo.cs
+G:\Users\ludovic\Desktop\AppSeleniumTest\SeleniumTest\obj\Debug\netcoreapp1.1\SeleniumTest.dll
+G:\Users\ludovic\Desktop\AppSeleniumTest\SeleniumTest\obj\Debug\netcoreapp1.1\SeleniumTest.pdb
+G:\Users\ludovic\Desktop\selenium-test\SeleniumTest\bin\Debug\netcoreapp1.1\SeleniumTest.deps.json
+G:\Users\ludovic\Desktop\selenium-test\SeleniumTest\bin\Debug\netcoreapp1.1\SeleniumTest.dll
+G:\Users\ludovic\Desktop\selenium-test\SeleniumTest\bin\Debug\netcoreapp1.1\SeleniumTest.pdb
+G:\Users\ludovic\Desktop\selenium-test\SeleniumTest\bin\Debug\netcoreapp1.1\FUnitTest.dll
+G:\Users\ludovic\Desktop\selenium-test\SeleniumTest\bin\Debug\netcoreapp1.1\FUnitTest.pdb
+G:\Users\ludovic\Desktop\selenium-test\SeleniumTest\obj\Debug\netcoreapp1.1\SeleniumTest.csprojResolveAssemblyReference.cache
+G:\Users\ludovic\Desktop\selenium-test\SeleniumTest\obj\Debug\netcoreapp1.1\SeleniumTest.AssemblyInfo.cs
+G:\Users\ludovic\Desktop\selenium-test\SeleniumTest\obj\Debug\netcoreapp1.1\SeleniumTest.dll
+G:\Users\ludovic\Desktop\selenium-test\SeleniumTest\obj\Debug\netcoreapp1.1\SeleniumTest.pdb

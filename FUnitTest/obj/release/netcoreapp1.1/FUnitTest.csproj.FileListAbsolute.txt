@@ -1,0 +1,12 @@
+C:\Users\ludovic.husson.ext\Documents\Visual Studio 2017\Projects\AppSeleniumTest\FUnitTest\bin\release\netcoreapp1.1\FUnitTest.deps.json
+C:\Users\ludovic.husson.ext\Documents\Visual Studio 2017\Projects\AppSeleniumTest\FUnitTest\bin\release\netcoreapp1.1\FUnitTest.dll
+C:\Users\ludovic.husson.ext\Documents\Visual Studio 2017\Projects\AppSeleniumTest\FUnitTest\bin\release\netcoreapp1.1\FUnitTest.pdb
+C:\Users\ludovic.husson.ext\Documents\Visual Studio 2017\Projects\AppSeleniumTest\FUnitTest\obj\release\netcoreapp1.1\FUnitTest.AssemblyInfo.cs
+C:\Users\ludovic.husson.ext\Documents\Visual Studio 2017\Projects\AppSeleniumTest\FUnitTest\obj\release\netcoreapp1.1\FUnitTest.dll
+C:\Users\ludovic.husson.ext\Documents\Visual Studio 2017\Projects\AppSeleniumTest\FUnitTest\obj\release\netcoreapp1.1\FUnitTest.pdb
+G:\Users\ludovic\Desktop\AppSeleniumTest\FUnitTest\bin\Release\netcoreapp1.1\FUnitTest.deps.json
+G:\Users\ludovic\Desktop\AppSeleniumTest\FUnitTest\bin\Release\netcoreapp1.1\FUnitTest.dll
+G:\Users\ludovic\Desktop\AppSeleniumTest\FUnitTest\bin\Release\netcoreapp1.1\FUnitTest.pdb
+G:\Users\ludovic\Desktop\AppSeleniumTest\FUnitTest\obj\Release\netcoreapp1.1\FUnitTest.AssemblyInfo.cs
+G:\Users\ludovic\Desktop\AppSeleniumTest\FUnitTest\obj\Release\netcoreapp1.1\FUnitTest.dll
+G:\Users\ludovic\Desktop\AppSeleniumTest\FUnitTest\obj\Release\netcoreapp1.1\FUnitTest.pdb

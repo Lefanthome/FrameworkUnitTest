@@ -1,0 +1,21 @@
+c:\users\ludovic.husson.ext\documents\visual studio 2017\Projects\AppSeleniumTest\FUnitTest\bin\Debug\netcoreapp1.1\FUnitTest.deps.json
+c:\users\ludovic.husson.ext\documents\visual studio 2017\Projects\AppSeleniumTest\FUnitTest\bin\Debug\netcoreapp1.1\FUnitTest.dll
+c:\users\ludovic.husson.ext\documents\visual studio 2017\Projects\AppSeleniumTest\FUnitTest\bin\Debug\netcoreapp1.1\FUnitTest.pdb
+c:\users\ludovic.husson.ext\documents\visual studio 2017\Projects\AppSeleniumTest\FUnitTest\obj\Debug\netcoreapp1.1\FUnitTest.AssemblyInfo.cs
+c:\users\ludovic.husson.ext\documents\visual studio 2017\Projects\AppSeleniumTest\FUnitTest\obj\Debug\netcoreapp1.1\FUnitTest.dll
+c:\users\ludovic.husson.ext\documents\visual studio 2017\Projects\AppSeleniumTest\FUnitTest\obj\Debug\netcoreapp1.1\FUnitTest.pdb
+c:\users\ludovic.husson.ext\documents\visual studio 2017\Projects\AppSeleniumTest\FUnitTest\obj\Debug\netcoreapp1.1\FUnitTest.csprojResolveAssemblyReference.cache
+G:\Users\ludovic\Desktop\AppSeleniumTest\FUnitTest\bin\Debug\netcoreapp1.1\FUnitTest.deps.json
+G:\Users\ludovic\Desktop\AppSeleniumTest\FUnitTest\bin\Debug\netcoreapp1.1\FUnitTest.dll
+G:\Users\ludovic\Desktop\AppSeleniumTest\FUnitTest\bin\Debug\netcoreapp1.1\FUnitTest.pdb
+G:\Users\ludovic\Desktop\AppSeleniumTest\FUnitTest\obj\Debug\netcoreapp1.1\FUnitTest.csprojResolveAssemblyReference.cache
+G:\Users\ludovic\Desktop\AppSeleniumTest\FUnitTest\obj\Debug\netcoreapp1.1\FUnitTest.AssemblyInfo.cs
+G:\Users\ludovic\Desktop\AppSeleniumTest\FUnitTest\obj\Debug\netcoreapp1.1\FUnitTest.dll
+G:\Users\ludovic\Desktop\AppSeleniumTest\FUnitTest\obj\Debug\netcoreapp1.1\FUnitTest.pdb
+G:\Users\ludovic\Desktop\selenium-test\FUnitTest\bin\Debug\netcoreapp1.1\FUnitTest.deps.json
+G:\Users\ludovic\Desktop\selenium-test\FUnitTest\bin\Debug\netcoreapp1.1\FUnitTest.dll
+G:\Users\ludovic\Desktop\selenium-test\FUnitTest\bin\Debug\netcoreapp1.1\FUnitTest.pdb
+G:\Users\ludovic\Desktop\selenium-test\FUnitTest\obj\Debug\netcoreapp1.1\FUnitTest.csprojResolveAssemblyReference.cache
+G:\Users\ludovic\Desktop\selenium-test\FUnitTest\obj\Debug\netcoreapp1.1\FUnitTest.AssemblyInfo.cs
+G:\Users\ludovic\Desktop\selenium-test\FUnitTest\obj\Debug\netcoreapp1.1\FUnitTest.dll
+G:\Users\ludovic\Desktop\selenium-test\FUnitTest\obj\Debug\netcoreapp1.1\FUnitTest.pdb

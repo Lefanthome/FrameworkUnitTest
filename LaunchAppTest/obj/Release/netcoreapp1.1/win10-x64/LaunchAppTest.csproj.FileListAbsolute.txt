@@ -1,0 +1,34 @@
+C:\Users\ludovic.husson.ext\Documents\Visual Studio 2017\Projects\AppSeleniumTest\LaunchAppTest\bin\release\netcoreapp1.1\win10-x64\hostpolicy.dll
+C:\Users\ludovic.husson.ext\Documents\Visual Studio 2017\Projects\AppSeleniumTest\LaunchAppTest\bin\release\netcoreapp1.1\win10-x64\hostfxr.dll
+C:\Users\ludovic.husson.ext\Documents\Visual Studio 2017\Projects\AppSeleniumTest\LaunchAppTest\bin\release\netcoreapp1.1\win10-x64\LaunchAppTest.exe
+C:\Users\ludovic.husson.ext\Documents\Visual Studio 2017\Projects\AppSeleniumTest\LaunchAppTest\bin\release\netcoreapp1.1\win10-x64\LaunchAppTest.deps.json
+C:\Users\ludovic.husson.ext\Documents\Visual Studio 2017\Projects\AppSeleniumTest\LaunchAppTest\bin\release\netcoreapp1.1\win10-x64\LaunchAppTest.runtimeconfig.json
+C:\Users\ludovic.husson.ext\Documents\Visual Studio 2017\Projects\AppSeleniumTest\LaunchAppTest\bin\release\netcoreapp1.1\win10-x64\LaunchAppTest.runtimeconfig.dev.json
+C:\Users\ludovic.husson.ext\Documents\Visual Studio 2017\Projects\AppSeleniumTest\LaunchAppTest\bin\release\netcoreapp1.1\win10-x64\LaunchAppTest.dll
+C:\Users\ludovic.husson.ext\Documents\Visual Studio 2017\Projects\AppSeleniumTest\LaunchAppTest\bin\release\netcoreapp1.1\win10-x64\LaunchAppTest.pdb
+C:\Users\ludovic.husson.ext\Documents\Visual Studio 2017\Projects\AppSeleniumTest\LaunchAppTest\bin\release\netcoreapp1.1\win10-x64\CommandParseLine.dll
+C:\Users\ludovic.husson.ext\Documents\Visual Studio 2017\Projects\AppSeleniumTest\LaunchAppTest\bin\release\netcoreapp1.1\win10-x64\FUnitTest.dll
+C:\Users\ludovic.husson.ext\Documents\Visual Studio 2017\Projects\AppSeleniumTest\LaunchAppTest\bin\release\netcoreapp1.1\win10-x64\SeleniumTest.dll
+C:\Users\ludovic.husson.ext\Documents\Visual Studio 2017\Projects\AppSeleniumTest\LaunchAppTest\bin\release\netcoreapp1.1\win10-x64\CommandParseLine.pdb
+C:\Users\ludovic.husson.ext\Documents\Visual Studio 2017\Projects\AppSeleniumTest\LaunchAppTest\bin\release\netcoreapp1.1\win10-x64\FUnitTest.pdb
+C:\Users\ludovic.husson.ext\Documents\Visual Studio 2017\Projects\AppSeleniumTest\LaunchAppTest\bin\release\netcoreapp1.1\win10-x64\SeleniumTest.pdb
+C:\Users\ludovic.husson.ext\Documents\Visual Studio 2017\Projects\AppSeleniumTest\LaunchAppTest\obj\release\netcoreapp1.1\win10-x64\LaunchAppTest.AssemblyInfo.cs
+C:\Users\ludovic.husson.ext\Documents\Visual Studio 2017\Projects\AppSeleniumTest\LaunchAppTest\obj\release\netcoreapp1.1\win10-x64\LaunchAppTest.dll
+C:\Users\ludovic.husson.ext\Documents\Visual Studio 2017\Projects\AppSeleniumTest\LaunchAppTest\obj\release\netcoreapp1.1\win10-x64\LaunchAppTest.pdb
+G:\Users\ludovic\Desktop\AppSeleniumTest\LaunchAppTest\bin\Release\netcoreapp1.1\win10-x64\hostpolicy.dll
+G:\Users\ludovic\Desktop\AppSeleniumTest\LaunchAppTest\bin\Release\netcoreapp1.1\win10-x64\hostfxr.dll
+G:\Users\ludovic\Desktop\AppSeleniumTest\LaunchAppTest\bin\Release\netcoreapp1.1\win10-x64\LaunchAppTest.exe
+G:\Users\ludovic\Desktop\AppSeleniumTest\LaunchAppTest\bin\Release\netcoreapp1.1\win10-x64\LaunchAppTest.deps.json
+G:\Users\ludovic\Desktop\AppSeleniumTest\LaunchAppTest\bin\Release\netcoreapp1.1\win10-x64\LaunchAppTest.runtimeconfig.json
+G:\Users\ludovic\Desktop\AppSeleniumTest\LaunchAppTest\bin\Release\netcoreapp1.1\win10-x64\LaunchAppTest.runtimeconfig.dev.json
+G:\Users\ludovic\Desktop\AppSeleniumTest\LaunchAppTest\bin\Release\netcoreapp1.1\win10-x64\LaunchAppTest.dll
+G:\Users\ludovic\Desktop\AppSeleniumTest\LaunchAppTest\bin\Release\netcoreapp1.1\win10-x64\LaunchAppTest.pdb
+G:\Users\ludovic\Desktop\AppSeleniumTest\LaunchAppTest\bin\Release\netcoreapp1.1\win10-x64\CommandParseLine.dll
+G:\Users\ludovic\Desktop\AppSeleniumTest\LaunchAppTest\bin\Release\netcoreapp1.1\win10-x64\FUnitTest.dll
+G:\Users\ludovic\Desktop\AppSeleniumTest\LaunchAppTest\bin\Release\netcoreapp1.1\win10-x64\SeleniumTest.dll
+G:\Users\ludovic\Desktop\AppSeleniumTest\LaunchAppTest\bin\Release\netcoreapp1.1\win10-x64\CommandParseLine.pdb
+G:\Users\ludovic\Desktop\AppSeleniumTest\LaunchAppTest\bin\Release\netcoreapp1.1\win10-x64\FUnitTest.pdb
+G:\Users\ludovic\Desktop\AppSeleniumTest\LaunchAppTest\bin\Release\netcoreapp1.1\win10-x64\SeleniumTest.pdb
+G:\Users\ludovic\Desktop\AppSeleniumTest\LaunchAppTest\obj\Release\netcoreapp1.1\win10-x64\LaunchAppTest.AssemblyInfo.cs
+G:\Users\ludovic\Desktop\AppSeleniumTest\LaunchAppTest\obj\Release\netcoreapp1.1\win10-x64\LaunchAppTest.dll
+G:\Users\ludovic\Desktop\AppSeleniumTest\LaunchAppTest\obj\Release\netcoreapp1.1\win10-x64\LaunchAppTest.pdb

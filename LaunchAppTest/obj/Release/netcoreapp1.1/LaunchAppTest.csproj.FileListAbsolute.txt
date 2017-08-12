@@ -1,0 +1,14 @@
+c:\users\ludovic.husson.ext\documents\visual studio 2017\Projects\AppSeleniumTest\LaunchAppTest\bin\Release\netcoreapp1.1\LaunchAppTest.deps.json
+c:\users\ludovic.husson.ext\documents\visual studio 2017\Projects\AppSeleniumTest\LaunchAppTest\bin\Release\netcoreapp1.1\LaunchAppTest.runtimeconfig.json
+c:\users\ludovic.husson.ext\documents\visual studio 2017\Projects\AppSeleniumTest\LaunchAppTest\bin\Release\netcoreapp1.1\LaunchAppTest.runtimeconfig.dev.json
+c:\users\ludovic.husson.ext\documents\visual studio 2017\Projects\AppSeleniumTest\LaunchAppTest\bin\Release\netcoreapp1.1\LaunchAppTest.dll
+c:\users\ludovic.husson.ext\documents\visual studio 2017\Projects\AppSeleniumTest\LaunchAppTest\bin\Release\netcoreapp1.1\LaunchAppTest.pdb
+c:\users\ludovic.husson.ext\documents\visual studio 2017\Projects\AppSeleniumTest\LaunchAppTest\bin\Release\netcoreapp1.1\CommandParseLine.dll
+c:\users\ludovic.husson.ext\documents\visual studio 2017\Projects\AppSeleniumTest\LaunchAppTest\bin\Release\netcoreapp1.1\FUnitTest.dll
+c:\users\ludovic.husson.ext\documents\visual studio 2017\Projects\AppSeleniumTest\LaunchAppTest\bin\Release\netcoreapp1.1\SeleniumTest.dll
+c:\users\ludovic.husson.ext\documents\visual studio 2017\Projects\AppSeleniumTest\LaunchAppTest\bin\Release\netcoreapp1.1\CommandParseLine.pdb
+c:\users\ludovic.husson.ext\documents\visual studio 2017\Projects\AppSeleniumTest\LaunchAppTest\bin\Release\netcoreapp1.1\FUnitTest.pdb
+c:\users\ludovic.husson.ext\documents\visual studio 2017\Projects\AppSeleniumTest\LaunchAppTest\bin\Release\netcoreapp1.1\SeleniumTest.pdb
+c:\users\ludovic.husson.ext\documents\visual studio 2017\Projects\AppSeleniumTest\LaunchAppTest\obj\Release\netcoreapp1.1\LaunchAppTest.AssemblyInfo.cs
+c:\users\ludovic.husson.ext\documents\visual studio 2017\Projects\AppSeleniumTest\LaunchAppTest\obj\Release\netcoreapp1.1\LaunchAppTest.dll
+c:\users\ludovic.husson.ext\documents\visual studio 2017\Projects\AppSeleniumTest\LaunchAppTest\obj\Release\netcoreapp1.1\LaunchAppTest.pdb

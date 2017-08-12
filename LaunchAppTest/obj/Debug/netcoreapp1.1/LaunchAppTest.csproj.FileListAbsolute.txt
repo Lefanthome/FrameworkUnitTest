@@ -1,0 +1,45 @@
+c:\users\ludovic.husson.ext\documents\visual studio 2017\Projects\AppSeleniumTest\LaunchAppTest\bin\Debug\netcoreapp1.1\LaunchAppTest.deps.json
+c:\users\ludovic.husson.ext\documents\visual studio 2017\Projects\AppSeleniumTest\LaunchAppTest\bin\Debug\netcoreapp1.1\LaunchAppTest.runtimeconfig.json
+c:\users\ludovic.husson.ext\documents\visual studio 2017\Projects\AppSeleniumTest\LaunchAppTest\bin\Debug\netcoreapp1.1\LaunchAppTest.runtimeconfig.dev.json
+c:\users\ludovic.husson.ext\documents\visual studio 2017\Projects\AppSeleniumTest\LaunchAppTest\obj\Debug\netcoreapp1.1\LaunchAppTest.csprojResolveAssemblyReference.cache
+c:\users\ludovic.husson.ext\documents\visual studio 2017\Projects\AppSeleniumTest\LaunchAppTest\obj\Debug\netcoreapp1.1\LaunchAppTest.AssemblyInfo.cs
+c:\users\ludovic.husson.ext\documents\visual studio 2017\Projects\AppSeleniumTest\LaunchAppTest\bin\Debug\netcoreapp1.1\LaunchAppTest.dll
+c:\users\ludovic.husson.ext\documents\visual studio 2017\Projects\AppSeleniumTest\LaunchAppTest\bin\Debug\netcoreapp1.1\LaunchAppTest.pdb
+c:\users\ludovic.husson.ext\documents\visual studio 2017\Projects\AppSeleniumTest\LaunchAppTest\bin\Debug\netcoreapp1.1\CommandParseLine.dll
+c:\users\ludovic.husson.ext\documents\visual studio 2017\Projects\AppSeleniumTest\LaunchAppTest\bin\Debug\netcoreapp1.1\FUnitTest.dll
+c:\users\ludovic.husson.ext\documents\visual studio 2017\Projects\AppSeleniumTest\LaunchAppTest\bin\Debug\netcoreapp1.1\SeleniumTest.dll
+c:\users\ludovic.husson.ext\documents\visual studio 2017\Projects\AppSeleniumTest\LaunchAppTest\bin\Debug\netcoreapp1.1\CommandParseLine.pdb
+c:\users\ludovic.husson.ext\documents\visual studio 2017\Projects\AppSeleniumTest\LaunchAppTest\bin\Debug\netcoreapp1.1\FUnitTest.pdb
+c:\users\ludovic.husson.ext\documents\visual studio 2017\Projects\AppSeleniumTest\LaunchAppTest\bin\Debug\netcoreapp1.1\SeleniumTest.pdb
+c:\users\ludovic.husson.ext\documents\visual studio 2017\Projects\AppSeleniumTest\LaunchAppTest\obj\Debug\netcoreapp1.1\LaunchAppTest.dll
+c:\users\ludovic.husson.ext\documents\visual studio 2017\Projects\AppSeleniumTest\LaunchAppTest\obj\Debug\netcoreapp1.1\LaunchAppTest.pdb
+G:\Users\ludovic\Desktop\AppSeleniumTest\LaunchAppTest\bin\Debug\netcoreapp1.1\LaunchAppTest.deps.json
+G:\Users\ludovic\Desktop\AppSeleniumTest\LaunchAppTest\bin\Debug\netcoreapp1.1\LaunchAppTest.runtimeconfig.json
+G:\Users\ludovic\Desktop\AppSeleniumTest\LaunchAppTest\bin\Debug\netcoreapp1.1\LaunchAppTest.runtimeconfig.dev.json
+G:\Users\ludovic\Desktop\AppSeleniumTest\LaunchAppTest\bin\Debug\netcoreapp1.1\LaunchAppTest.dll
+G:\Users\ludovic\Desktop\AppSeleniumTest\LaunchAppTest\bin\Debug\netcoreapp1.1\LaunchAppTest.pdb
+G:\Users\ludovic\Desktop\AppSeleniumTest\LaunchAppTest\bin\Debug\netcoreapp1.1\CommandParseLine.dll
+G:\Users\ludovic\Desktop\AppSeleniumTest\LaunchAppTest\bin\Debug\netcoreapp1.1\FUnitTest.dll
+G:\Users\ludovic\Desktop\AppSeleniumTest\LaunchAppTest\bin\Debug\netcoreapp1.1\SeleniumTest.dll
+G:\Users\ludovic\Desktop\AppSeleniumTest\LaunchAppTest\bin\Debug\netcoreapp1.1\CommandParseLine.pdb
+G:\Users\ludovic\Desktop\AppSeleniumTest\LaunchAppTest\bin\Debug\netcoreapp1.1\FUnitTest.pdb
+G:\Users\ludovic\Desktop\AppSeleniumTest\LaunchAppTest\bin\Debug\netcoreapp1.1\SeleniumTest.pdb
+G:\Users\ludovic\Desktop\AppSeleniumTest\LaunchAppTest\obj\Debug\netcoreapp1.1\LaunchAppTest.csprojResolveAssemblyReference.cache
+G:\Users\ludovic\Desktop\AppSeleniumTest\LaunchAppTest\obj\Debug\netcoreapp1.1\LaunchAppTest.AssemblyInfo.cs
+G:\Users\ludovic\Desktop\AppSeleniumTest\LaunchAppTest\obj\Debug\netcoreapp1.1\LaunchAppTest.dll
+G:\Users\ludovic\Desktop\AppSeleniumTest\LaunchAppTest\obj\Debug\netcoreapp1.1\LaunchAppTest.pdb
+G:\Users\ludovic\Desktop\selenium-test\LaunchAppTest\bin\Debug\netcoreapp1.1\LaunchAppTest.deps.json
+G:\Users\ludovic\Desktop\selenium-test\LaunchAppTest\bin\Debug\netcoreapp1.1\LaunchAppTest.runtimeconfig.json
+G:\Users\ludovic\Desktop\selenium-test\LaunchAppTest\bin\Debug\netcoreapp1.1\LaunchAppTest.runtimeconfig.dev.json
+G:\Users\ludovic\Desktop\selenium-test\LaunchAppTest\bin\Debug\netcoreapp1.1\LaunchAppTest.dll
+G:\Users\ludovic\Desktop\selenium-test\LaunchAppTest\bin\Debug\netcoreapp1.1\LaunchAppTest.pdb
+G:\Users\ludovic\Desktop\selenium-test\LaunchAppTest\bin\Debug\netcoreapp1.1\CommandParseLine.dll
+G:\Users\ludovic\Desktop\selenium-test\LaunchAppTest\bin\Debug\netcoreapp1.1\FUnitTest.dll
+G:\Users\ludovic\Desktop\selenium-test\LaunchAppTest\bin\Debug\netcoreapp1.1\SeleniumTest.dll
+G:\Users\ludovic\Desktop\selenium-test\LaunchAppTest\bin\Debug\netcoreapp1.1\CommandParseLine.pdb
+G:\Users\ludovic\Desktop\selenium-test\LaunchAppTest\bin\Debug\netcoreapp1.1\FUnitTest.pdb
+G:\Users\ludovic\Desktop\selenium-test\LaunchAppTest\bin\Debug\netcoreapp1.1\SeleniumTest.pdb
+G:\Users\ludovic\Desktop\selenium-test\LaunchAppTest\obj\Debug\netcoreapp1.1\LaunchAppTest.csprojResolveAssemblyReference.cache
+G:\Users\ludovic\Desktop\selenium-test\LaunchAppTest\obj\Debug\netcoreapp1.1\LaunchAppTest.AssemblyInfo.cs
+G:\Users\ludovic\Desktop\selenium-test\LaunchAppTest\obj\Debug\netcoreapp1.1\LaunchAppTest.dll
+G:\Users\ludovic\Desktop\selenium-test\LaunchAppTest\obj\Debug\netcoreapp1.1\LaunchAppTest.pdb

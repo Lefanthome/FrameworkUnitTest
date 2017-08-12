@@ -1,0 +1,21 @@
+c:\users\ludovic.husson.ext\documents\visual studio 2017\Projects\AppSeleniumTest\CommandParseLine\bin\Debug\netcoreapp1.1\CommandParseLine.deps.json
+c:\users\ludovic.husson.ext\documents\visual studio 2017\Projects\AppSeleniumTest\CommandParseLine\bin\Debug\netcoreapp1.1\CommandParseLine.dll
+c:\users\ludovic.husson.ext\documents\visual studio 2017\Projects\AppSeleniumTest\CommandParseLine\bin\Debug\netcoreapp1.1\CommandParseLine.pdb
+c:\users\ludovic.husson.ext\documents\visual studio 2017\Projects\AppSeleniumTest\CommandParseLine\obj\Debug\netcoreapp1.1\CommandParseLine.AssemblyInfo.cs
+c:\users\ludovic.husson.ext\documents\visual studio 2017\Projects\AppSeleniumTest\CommandParseLine\obj\Debug\netcoreapp1.1\CommandParseLine.dll
+c:\users\ludovic.husson.ext\documents\visual studio 2017\Projects\AppSeleniumTest\CommandParseLine\obj\Debug\netcoreapp1.1\CommandParseLine.pdb
+c:\users\ludovic.husson.ext\documents\visual studio 2017\Projects\AppSeleniumTest\CommandParseLine\obj\Debug\netcoreapp1.1\CommandParseLine.csprojResolveAssemblyReference.cache
+G:\Users\ludovic\Desktop\AppSeleniumTest\CommandParseLine\bin\Debug\netcoreapp1.1\CommandParseLine.deps.json
+G:\Users\ludovic\Desktop\AppSeleniumTest\CommandParseLine\bin\Debug\netcoreapp1.1\CommandParseLine.dll
+G:\Users\ludovic\Desktop\AppSeleniumTest\CommandParseLine\bin\Debug\netcoreapp1.1\CommandParseLine.pdb
+G:\Users\ludovic\Desktop\AppSeleniumTest\CommandParseLine\obj\Debug\netcoreapp1.1\CommandParseLine.csprojResolveAssemblyReference.cache
+G:\Users\ludovic\Desktop\AppSeleniumTest\CommandParseLine\obj\Debug\netcoreapp1.1\CommandParseLine.AssemblyInfo.cs
+G:\Users\ludovic\Desktop\AppSeleniumTest\CommandParseLine\obj\Debug\netcoreapp1.1\CommandParseLine.dll
+G:\Users\ludovic\Desktop\AppSeleniumTest\CommandParseLine\obj\Debug\netcoreapp1.1\CommandParseLine.pdb
+G:\Users\ludovic\Desktop\selenium-test\CommandParseLine\bin\Debug\netcoreapp1.1\CommandParseLine.deps.json
+G:\Users\ludovic\Desktop\selenium-test\CommandParseLine\bin\Debug\netcoreapp1.1\CommandParseLine.dll
+G:\Users\ludovic\Desktop\selenium-test\CommandParseLine\bin\Debug\netcoreapp1.1\CommandParseLine.pdb
+G:\Users\ludovic\Desktop\selenium-test\CommandParseLine\obj\Debug\netcoreapp1.1\CommandParseLine.csprojResolveAssemblyReference.cache
+G:\Users\ludovic\Desktop\selenium-test\CommandParseLine\obj\Debug\netcoreapp1.1\CommandParseLine.AssemblyInfo.cs
+G:\Users\ludovic\Desktop\selenium-test\CommandParseLine\obj\Debug\netcoreapp1.1\CommandParseLine.dll
+G:\Users\ludovic\Desktop\selenium-test\CommandParseLine\obj\Debug\netcoreapp1.1\CommandParseLine.pdb

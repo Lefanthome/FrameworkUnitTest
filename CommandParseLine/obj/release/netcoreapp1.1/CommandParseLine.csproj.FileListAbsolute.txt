@@ -1,0 +1,12 @@
+C:\Users\ludovic.husson.ext\Documents\Visual Studio 2017\Projects\AppSeleniumTest\CommandParseLine\bin\release\netcoreapp1.1\CommandParseLine.deps.json
+C:\Users\ludovic.husson.ext\Documents\Visual Studio 2017\Projects\AppSeleniumTest\CommandParseLine\bin\release\netcoreapp1.1\CommandParseLine.dll
+C:\Users\ludovic.husson.ext\Documents\Visual Studio 2017\Projects\AppSeleniumTest\CommandParseLine\bin\release\netcoreapp1.1\CommandParseLine.pdb
+C:\Users\ludovic.husson.ext\Documents\Visual Studio 2017\Projects\AppSeleniumTest\CommandParseLine\obj\release\netcoreapp1.1\CommandParseLine.AssemblyInfo.cs
+C:\Users\ludovic.husson.ext\Documents\Visual Studio 2017\Projects\AppSeleniumTest\CommandParseLine\obj\release\netcoreapp1.1\CommandParseLine.dll
+C:\Users\ludovic.husson.ext\Documents\Visual Studio 2017\Projects\AppSeleniumTest\CommandParseLine\obj\release\netcoreapp1.1\CommandParseLine.pdb
+G:\Users\ludovic\Desktop\AppSeleniumTest\CommandParseLine\bin\Release\netcoreapp1.1\CommandParseLine.deps.json
+G:\Users\ludovic\Desktop\AppSeleniumTest\CommandParseLine\bin\Release\netcoreapp1.1\CommandParseLine.dll
+G:\Users\ludovic\Desktop\AppSeleniumTest\CommandParseLine\bin\Release\netcoreapp1.1\CommandParseLine.pdb
+G:\Users\ludovic\Desktop\AppSeleniumTest\CommandParseLine\obj\Release\netcoreapp1.1\CommandParseLine.AssemblyInfo.cs
+G:\Users\ludovic\Desktop\AppSeleniumTest\CommandParseLine\obj\Release\netcoreapp1.1\CommandParseLine.dll
+G:\Users\ludovic\Desktop\AppSeleniumTest\CommandParseLine\obj\Release\netcoreapp1.1\CommandParseLine.pdb
